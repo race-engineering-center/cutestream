@@ -1,0 +1,106 @@
+{
+    "19": {
+        "datetime": [
+            {
+                "serialized": "AAAAAAAlZkwAAAAAAA==",
+                "value": {
+                    "day": 25,
+                    "hour": 0,
+                    "minute": 0,
+                    "month": 7,
+                    "ms": 0,
+                    "sec": 0,
+                    "year": 1998
+                }
+            },
+            {
+                "serialized": "AAAAAAAlYcIAlMpTAA==",
+                "value": {
+                    "day": 20,
+                    "hour": 2,
+                    "minute": 42,
+                    "month": 5,
+                    "ms": 123,
+                    "sec": 31,
+                    "year": 1995
+                }
+            },
+            {
+                "serialized": "AAAAAAAliDcCk6QqAA==",
+                "value": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0,
+                    "month": 5,
+                    "ms": 250,
+                    "sec": 30,
+                    "year": 2022
+                }
+            },
+            {
+                "serialized": "AAAAAAAliFQDmBrgAA==",
+                "value": {
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 45,
+                    "month": 6,
+                    "ms": 0,
+                    "sec": 0,
+                    "year": 2022
+                }
+            }
+        ]
+    },
+    "20": {
+        "datetime": [
+            {
+                "serialized": "AAAAAAAlZkwAAAAAAA==",
+                "value": {
+                    "day": 25,
+                    "hour": 0,
+                    "minute": 0,
+                    "month": 7,
+                    "ms": 0,
+                    "sec": 0,
+                    "year": 1998
+                }
+            },
+            {
+                "serialized": "AAAAAAAlYcIAlMpTAA==",
+                "value": {
+                    "day": 20,
+                    "hour": 2,
+                    "minute": 42,
+                    "month": 5,
+                    "ms": 123,
+                    "sec": 31,
+                    "year": 1995
+                }
+            },
+            {
+                "serialized": "AAAAAAAliDcCk6QqAA==",
+                "value": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0,
+                    "month": 5,
+                    "ms": 250,
+                    "sec": 30,
+                    "year": 2022
+                }
+            },
+            {
+                "serialized": "AAAAAAAliFQDmBrgAA==",
+                "value": {
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 45,
+                    "month": 6,
+                    "ms": 0,
+                    "sec": 0,
+                    "year": 2022
+                }
+            }
+        ]
+    }
+}
