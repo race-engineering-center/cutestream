@@ -22,7 +22,7 @@ jobs:
         run: go build -v ./...
 
       - name: Set test environment
-        run: echo "CUTESTREAM_TEST_DIR=${GITHUB_WORKSPACE}/test" >> $GITHUB_ENV
+        run: echo "CUTESTREAM_TEST_DIR=${GITHUB_WORKSPACE}/test" >> $env:GITHUB_ENV
 
       - name: Test
         run: go test -v ./...
