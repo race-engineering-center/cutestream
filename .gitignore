@@ -5,3 +5,4 @@ out
 cmake-*
 **/*.user
 build-*
+**/.DS_Store*
