@@ -20,23 +20,11 @@ void generate(QString fileName, QDir rootDir, const QVector<int>& versions, Call
     }
     QFile file(rootDir.filePath(fileName));
     if (!file.open(QIODeviceBase::WriteOnly)) {
-        throw new std::invalid_argument(QString("Unable to write to " + file.fileName()).toStdString());
+        throw std::invalid_argument(QString("Unable to write to " + file.fileName()).toStdString());
     }
 
     file.write(QJsonDocument(output).toJson());
 }
-
-void generateInt(QDir rootDir, const QVector<int>& versions)
-{
-
-}
-
-void generateFloat(QDir rootDir, const QVector<int>& versions)
-{
-
-}
-
-
 
 int main(int argc, char *argv[]) {
     QVector<int> versions {
@@ -44,7 +32,6 @@ int main(int argc, char *argv[]) {
                 QDataStream::Qt_6_0
     };
 
-    QDataStreamWriter writer;
     QJsonObject output;
 
     QString rootPath = QProcessEnvironment::systemEnvironment().value("CUTESTREAM_TEST_DIR");
