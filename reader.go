@@ -122,7 +122,7 @@ func NewReaderWithVersion(reader io.Reader, version int) (Reader, error) {
 }
 
 func (r *Reader) SetVersion(version int) error {
-	acceptedVersions := []int{19, 20}
+	acceptedVersions := []int{19, 20, 21, 22}
 	found := false
 	for _, v := range acceptedVersions {
 		if v == version {

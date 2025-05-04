@@ -29,7 +29,9 @@ void generate(QString fileName, QDir rootDir, const QVector<int>& versions, Call
 int main(int argc, char *argv[]) {
     QVector<int> versions {
         QDataStream::Qt_5_13,
-                QDataStream::Qt_6_0
+        QDataStream::Qt_6_0,
+        QDataStream::Qt_6_6,
+        QDataStream::Qt_6_7,
     };
 
     QString rootPath = QProcessEnvironment::systemEnvironment().value("CUTESTREAM_TEST_DIR");

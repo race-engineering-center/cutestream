@@ -290,5 +290,297 @@
                 "value": "255"
             }
         ]
+    },
+    "21": {
+        "int16": [
+            {
+                "serialized": "AAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "ACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "/7c=",
+                "value": "-73"
+            },
+            {
+                "serialized": "gAA=",
+                "value": "-32768"
+            },
+            {
+                "serialized": "f/8=",
+                "value": "32767"
+            }
+        ],
+        "int32": [
+            {
+                "serialized": "AAAAAA==",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAKg==",
+                "value": "42"
+            },
+            {
+                "serialized": "////tw==",
+                "value": "-73"
+            },
+            {
+                "serialized": "gAAAAA==",
+                "value": "-2147483648"
+            },
+            {
+                "serialized": "f////w==",
+                "value": "2147483647"
+            }
+        ],
+        "int64": [
+            {
+                "serialized": "AAAAAAAAAAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAAAAAACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "/////////7c=",
+                "value": "-73"
+            },
+            {
+                "serialized": "gAAAAAAAAAA=",
+                "value": "-9223372036854775808"
+            },
+            {
+                "serialized": "f/////////8=",
+                "value": "9223372036854775807"
+            }
+        ],
+        "int8": [
+            {
+                "serialized": "AA==",
+                "value": "0"
+            },
+            {
+                "serialized": "Kg==",
+                "value": "42"
+            },
+            {
+                "serialized": "tw==",
+                "value": "-73"
+            },
+            {
+                "serialized": "gA==",
+                "value": "-128"
+            },
+            {
+                "serialized": "fw==",
+                "value": "127"
+            }
+        ],
+        "uint16": [
+            {
+                "serialized": "AAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "ACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "//8=",
+                "value": "65535"
+            }
+        ],
+        "uint32": [
+            {
+                "serialized": "AAAAAA==",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAKg==",
+                "value": "42"
+            },
+            {
+                "serialized": "/////w==",
+                "value": "4294967295"
+            }
+        ],
+        "uint64": [
+            {
+                "serialized": "AAAAAAAAAAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAAAAAACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "//////////8=",
+                "value": "18446744073709551615"
+            }
+        ],
+        "uint8": [
+            {
+                "serialized": "AA==",
+                "value": "0"
+            },
+            {
+                "serialized": "Kg==",
+                "value": "42"
+            },
+            {
+                "serialized": "/w==",
+                "value": "255"
+            }
+        ]
+    },
+    "22": {
+        "int16": [
+            {
+                "serialized": "AAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "ACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "/7c=",
+                "value": "-73"
+            },
+            {
+                "serialized": "gAA=",
+                "value": "-32768"
+            },
+            {
+                "serialized": "f/8=",
+                "value": "32767"
+            }
+        ],
+        "int32": [
+            {
+                "serialized": "AAAAAA==",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAKg==",
+                "value": "42"
+            },
+            {
+                "serialized": "////tw==",
+                "value": "-73"
+            },
+            {
+                "serialized": "gAAAAA==",
+                "value": "-2147483648"
+            },
+            {
+                "serialized": "f////w==",
+                "value": "2147483647"
+            }
+        ],
+        "int64": [
+            {
+                "serialized": "AAAAAAAAAAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAAAAAACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "/////////7c=",
+                "value": "-73"
+            },
+            {
+                "serialized": "gAAAAAAAAAA=",
+                "value": "-9223372036854775808"
+            },
+            {
+                "serialized": "f/////////8=",
+                "value": "9223372036854775807"
+            }
+        ],
+        "int8": [
+            {
+                "serialized": "AA==",
+                "value": "0"
+            },
+            {
+                "serialized": "Kg==",
+                "value": "42"
+            },
+            {
+                "serialized": "tw==",
+                "value": "-73"
+            },
+            {
+                "serialized": "gA==",
+                "value": "-128"
+            },
+            {
+                "serialized": "fw==",
+                "value": "127"
+            }
+        ],
+        "uint16": [
+            {
+                "serialized": "AAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "ACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "//8=",
+                "value": "65535"
+            }
+        ],
+        "uint32": [
+            {
+                "serialized": "AAAAAA==",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAKg==",
+                "value": "42"
+            },
+            {
+                "serialized": "/////w==",
+                "value": "4294967295"
+            }
+        ],
+        "uint64": [
+            {
+                "serialized": "AAAAAAAAAAA=",
+                "value": "0"
+            },
+            {
+                "serialized": "AAAAAAAAACo=",
+                "value": "42"
+            },
+            {
+                "serialized": "//////////8=",
+                "value": "18446744073709551615"
+            }
+        ],
+        "uint8": [
+            {
+                "serialized": "AA==",
+                "value": "0"
+            },
+            {
+                "serialized": "Kg==",
+                "value": "42"
+            },
+            {
+                "serialized": "/w==",
+                "value": "255"
+            }
+        ]
     }
 }

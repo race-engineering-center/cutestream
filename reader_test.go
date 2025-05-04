@@ -4,12 +4,13 @@ import (
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
-	"github.com/stretchr/testify/assert"
 	"io"
 	"os"
 	"reflect"
 	"strconv"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 const TESTDIR_ENV = "CUTESTREAM_TEST_DIR"
