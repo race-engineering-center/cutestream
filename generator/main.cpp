@@ -32,8 +32,6 @@ int main(int argc, char *argv[]) {
                 QDataStream::Qt_6_0
     };
 
-    QJsonObject output;
-
     QString rootPath = QProcessEnvironment::systemEnvironment().value("CUTESTREAM_TEST_DIR");
     QDir rootDir(rootPath);
     if (rootPath.isEmpty() || !rootDir.exists()) {

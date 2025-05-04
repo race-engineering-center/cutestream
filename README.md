@@ -45,7 +45,7 @@ You can also use it to regenerate test data on a fly.
 
 This code is distributed under MIT license
 
-Copyright (c) 2023 Dmitriy Linev
+Copyright (c) 2023-2025 Dmitriy Linev
 
 ## TODO
 
